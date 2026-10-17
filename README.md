@@ -8,7 +8,7 @@ Live: https://dguywhoknows.github.io/review-analyzer/
 
 ## Overview
 
-Review Radar reads hundreds of reviews so you don't have to. A local NLP pipeline splits reviews into sentences and scores sentiment with a lexicon that handles negation, intensifiers and 'but' clauses. It maps each sentence to product aspects (sound, battery, fit, connectivity …) to build a diverging aspect-sentiment chart, and plots rating and text sentiment month by month. Weighted log-odds with an informative prior surfaces the words that separate 5from 1reviews. Suspicious-review heuristics catch near-duplicates (shingle Jaccard), same-day 5bursts, generic one-liners and rating/text mismatches. The AI turns a stratified sample plus the stats into an executive brief with prioritized actions, and drafts empathetic replies to negative reviews.
+Review Digest reads hundreds of reviews so you don't have to. A local NLP pipeline splits reviews into sentences and scores sentiment with a lexicon that handles negation, intensifiers and 'but' clauses. It maps each sentence to product aspects (sound, battery, fit, connectivity …) to build a diverging aspect-sentiment chart, and plots rating and text sentiment month by month. Weighted log-odds with an informative prior surfaces the words that separate 5from 1reviews. Suspicious-review heuristics catch near-duplicates (shingle Jaccard), same-day 5bursts, generic one-liners and rating/text mismatches. The AI turns a stratified sample plus the stats into an executive brief with prioritized actions, and drafts empathetic replies to negative reviews.
 
 ## Pages
 
